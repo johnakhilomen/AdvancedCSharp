@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/johnakhilomen/Projects/AdvancedCSharp/AdvancedCSharpCpding/AdvancedCSharpCpding.csproj": {}
+    "/Users/johnakhilomen/Projects/AdvancedCSharp/Delegates/Delegates.csproj": {}
   },
   "projects": {
-    "/Users/johnakhilomen/Projects/AdvancedCSharp/AdvancedCSharpCpding/AdvancedCSharpCpding.csproj": {
+    "/Users/johnakhilomen/Projects/AdvancedCSharp/Delegates/Delegates.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/johnakhilomen/Projects/AdvancedCSharp/AdvancedCSharpCpding/AdvancedCSharpCpding.csproj",
-        "projectName": "AdvancedCSharpCpding",
-        "projectPath": "/Users/johnakhilomen/Projects/AdvancedCSharp/AdvancedCSharpCpding/AdvancedCSharpCpding.csproj",
+        "projectUniqueName": "/Users/johnakhilomen/Projects/AdvancedCSharp/Delegates/Delegates.csproj",
+        "projectName": "Delegates",
+        "projectPath": "/Users/johnakhilomen/Projects/AdvancedCSharp/Delegates/Delegates.csproj",
         "packagesPath": "/Users/johnakhilomen/.nuget/packages/",
-        "outputPath": "/Users/johnakhilomen/Projects/AdvancedCSharp/AdvancedCSharpCpding/obj/",
+        "outputPath": "/Users/johnakhilomen/Projects/AdvancedCSharp/Delegates/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/johnakhilomen/.config/NuGet/NuGet.Config"

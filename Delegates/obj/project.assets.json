@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/johnakhilomen/Projects/AdvancedCSharp/NullableTypes/NullableTypes.csproj",
-      "projectName": "NullableTypes",
-      "projectPath": "/Users/johnakhilomen/Projects/AdvancedCSharp/NullableTypes/NullableTypes.csproj",
+      "projectUniqueName": "/Users/johnakhilomen/Projects/AdvancedCSharp/Delegates/Delegates.csproj",
+      "projectName": "Delegates",
+      "projectPath": "/Users/johnakhilomen/Projects/AdvancedCSharp/Delegates/Delegates.csproj",
       "packagesPath": "/Users/johnakhilomen/.nuget/packages/",
-      "outputPath": "/Users/johnakhilomen/Projects/AdvancedCSharp/NullableTypes/obj/",
+      "outputPath": "/Users/johnakhilomen/Projects/AdvancedCSharp/Delegates/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/johnakhilomen/.config/NuGet/NuGet.Config"

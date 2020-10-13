@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/johnakhilomen/Projects/AdvancedCSharpCpding/AdvancedCSharpCpding/AdvancedCSharpCpding.csproj",
+      "projectUniqueName": "/Users/johnakhilomen/Projects/AdvancedCSharp/AdvancedCSharpCpding/AdvancedCSharpCpding.csproj",
       "projectName": "AdvancedCSharpCpding",
-      "projectPath": "/Users/johnakhilomen/Projects/AdvancedCSharpCpding/AdvancedCSharpCpding/AdvancedCSharpCpding.csproj",
+      "projectPath": "/Users/johnakhilomen/Projects/AdvancedCSharp/AdvancedCSharpCpding/AdvancedCSharpCpding.csproj",
       "packagesPath": "/Users/johnakhilomen/.nuget/packages/",
-      "outputPath": "/Users/johnakhilomen/Projects/AdvancedCSharpCpding/AdvancedCSharpCpding/obj/",
+      "outputPath": "/Users/johnakhilomen/Projects/AdvancedCSharp/AdvancedCSharpCpding/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/johnakhilomen/.config/NuGet/NuGet.Config"

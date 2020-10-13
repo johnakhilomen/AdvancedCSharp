@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/johnakhilomen/Projects/AdvancedCSharpCpding/NullableTypes/NullableTypes.csproj": {}
+    "/Users/johnakhilomen/Projects/AdvancedCSharp/NullableTypes/NullableTypes.csproj": {}
   },
   "projects": {
-    "/Users/johnakhilomen/Projects/AdvancedCSharpCpding/NullableTypes/NullableTypes.csproj": {
+    "/Users/johnakhilomen/Projects/AdvancedCSharp/NullableTypes/NullableTypes.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/johnakhilomen/Projects/AdvancedCSharpCpding/NullableTypes/NullableTypes.csproj",
+        "projectUniqueName": "/Users/johnakhilomen/Projects/AdvancedCSharp/NullableTypes/NullableTypes.csproj",
         "projectName": "NullableTypes",
-        "projectPath": "/Users/johnakhilomen/Projects/AdvancedCSharpCpding/NullableTypes/NullableTypes.csproj",
+        "projectPath": "/Users/johnakhilomen/Projects/AdvancedCSharp/NullableTypes/NullableTypes.csproj",
         "packagesPath": "/Users/johnakhilomen/.nuget/packages/",
-        "outputPath": "/Users/johnakhilomen/Projects/AdvancedCSharpCpding/NullableTypes/obj/",
+        "outputPath": "/Users/johnakhilomen/Projects/AdvancedCSharp/NullableTypes/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/johnakhilomen/.config/NuGet/NuGet.Config"

@@ -1,0 +1,12 @@
+/Users/johnakhilomen/Projects/AdvancedCSharp/Delegates/bin/Debug/netcoreapp3.1/Delegates.deps.json
+/Users/johnakhilomen/Projects/AdvancedCSharp/Delegates/bin/Debug/netcoreapp3.1/Delegates.runtimeconfig.json
+/Users/johnakhilomen/Projects/AdvancedCSharp/Delegates/bin/Debug/netcoreapp3.1/Delegates.runtimeconfig.dev.json
+/Users/johnakhilomen/Projects/AdvancedCSharp/Delegates/bin/Debug/netcoreapp3.1/Delegates.dll
+/Users/johnakhilomen/Projects/AdvancedCSharp/Delegates/bin/Debug/netcoreapp3.1/Delegates.pdb
+/Users/johnakhilomen/Projects/AdvancedCSharp/Delegates/obj/Debug/netcoreapp3.1/Delegates.csprojAssemblyReference.cache
+/Users/johnakhilomen/Projects/AdvancedCSharp/Delegates/obj/Debug/netcoreapp3.1/Delegates.AssemblyInfoInputs.cache
+/Users/johnakhilomen/Projects/AdvancedCSharp/Delegates/obj/Debug/netcoreapp3.1/Delegates.AssemblyInfo.cs
+/Users/johnakhilomen/Projects/AdvancedCSharp/Delegates/obj/Debug/netcoreapp3.1/Delegates.csproj.CoreCompileInputs.cache
+/Users/johnakhilomen/Projects/AdvancedCSharp/Delegates/obj/Debug/netcoreapp3.1/Delegates.dll
+/Users/johnakhilomen/Projects/AdvancedCSharp/Delegates/obj/Debug/netcoreapp3.1/Delegates.pdb
+/Users/johnakhilomen/Projects/AdvancedCSharp/Delegates/obj/Debug/netcoreapp3.1/Delegates.genruntimeconfig.cache

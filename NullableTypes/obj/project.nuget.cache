@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NzhaAdXNuTWucUuNby7y1HeRqjZsmwAl3G+QFPhcEpWuSRd9k7RsDHjiJ7MKAFS9EIuIzIS9cH/bBKoOwmeaxg==",
+  "dgSpecHash": "guxnUqbwIlp/SrSylt2Isi0XWmnsrLkIZab9dK7vK8YUgFmZvR4C4laKWjIT2XhuRXlTX+vveafRnQimhoOAXA==",
   "success": true,
-  "projectFilePath": "/Users/johnakhilomen/Projects/AdvancedCSharpCpding/NullableTypes/NullableTypes.csproj",
+  "projectFilePath": "/Users/johnakhilomen/Projects/AdvancedCSharp/NullableTypes/NullableTypes.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

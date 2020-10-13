@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{3974FA17-E41D-4EC9-AF8A-B6B35D05EEC7}|Default">
+  <MonoDevelop.Ide.ItemProperties.AdvancedCSharpCpding PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Delegates/UserService.cs">
+    <Files>
+      <File FileName="Delegates/Program.cs" Line="13" Column="25" />
+      <File FileName="Delegates/UserService.cs" Line="6" Column="33" />
+      <File FileName="Delegates/UserService.cs" Line="6" Column="24" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="AdvancedCSharpCpding" expanded="True">
+            <Node name="Delegates" expanded="True">
+              <Node name="UserService.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Delegates PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
