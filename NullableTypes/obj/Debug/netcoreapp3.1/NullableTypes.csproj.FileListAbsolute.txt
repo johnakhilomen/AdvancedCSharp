@@ -1,0 +1,12 @@
+/Users/johnakhilomen/Projects/AdvancedCSharpCpding/NullableTypes/bin/Debug/netcoreapp3.1/NullableTypes.deps.json
+/Users/johnakhilomen/Projects/AdvancedCSharpCpding/NullableTypes/bin/Debug/netcoreapp3.1/NullableTypes.runtimeconfig.json
+/Users/johnakhilomen/Projects/AdvancedCSharpCpding/NullableTypes/bin/Debug/netcoreapp3.1/NullableTypes.runtimeconfig.dev.json
+/Users/johnakhilomen/Projects/AdvancedCSharpCpding/NullableTypes/bin/Debug/netcoreapp3.1/NullableTypes.dll
+/Users/johnakhilomen/Projects/AdvancedCSharpCpding/NullableTypes/bin/Debug/netcoreapp3.1/NullableTypes.pdb
+/Users/johnakhilomen/Projects/AdvancedCSharpCpding/NullableTypes/obj/Debug/netcoreapp3.1/NullableTypes.csprojAssemblyReference.cache
+/Users/johnakhilomen/Projects/AdvancedCSharpCpding/NullableTypes/obj/Debug/netcoreapp3.1/NullableTypes.AssemblyInfoInputs.cache
+/Users/johnakhilomen/Projects/AdvancedCSharpCpding/NullableTypes/obj/Debug/netcoreapp3.1/NullableTypes.AssemblyInfo.cs
+/Users/johnakhilomen/Projects/AdvancedCSharpCpding/NullableTypes/obj/Debug/netcoreapp3.1/NullableTypes.csproj.CoreCompileInputs.cache
+/Users/johnakhilomen/Projects/AdvancedCSharpCpding/NullableTypes/obj/Debug/netcoreapp3.1/NullableTypes.dll
+/Users/johnakhilomen/Projects/AdvancedCSharpCpding/NullableTypes/obj/Debug/netcoreapp3.1/NullableTypes.pdb
+/Users/johnakhilomen/Projects/AdvancedCSharpCpding/NullableTypes/obj/Debug/netcoreapp3.1/NullableTypes.genruntimeconfig.cache

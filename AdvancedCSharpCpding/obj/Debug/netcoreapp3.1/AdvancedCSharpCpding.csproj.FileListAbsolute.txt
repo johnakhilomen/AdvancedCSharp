@@ -1,0 +1,12 @@
+/Users/johnakhilomen/Projects/AdvancedCSharpCpding/AdvancedCSharpCpding/bin/Debug/netcoreapp3.1/AdvancedCSharpCpding.deps.json
+/Users/johnakhilomen/Projects/AdvancedCSharpCpding/AdvancedCSharpCpding/bin/Debug/netcoreapp3.1/AdvancedCSharpCpding.runtimeconfig.json
+/Users/johnakhilomen/Projects/AdvancedCSharpCpding/AdvancedCSharpCpding/bin/Debug/netcoreapp3.1/AdvancedCSharpCpding.runtimeconfig.dev.json
+/Users/johnakhilomen/Projects/AdvancedCSharpCpding/AdvancedCSharpCpding/bin/Debug/netcoreapp3.1/AdvancedCSharpCpding.dll
+/Users/johnakhilomen/Projects/AdvancedCSharpCpding/AdvancedCSharpCpding/bin/Debug/netcoreapp3.1/AdvancedCSharpCpding.pdb
+/Users/johnakhilomen/Projects/AdvancedCSharpCpding/AdvancedCSharpCpding/obj/Debug/netcoreapp3.1/AdvancedCSharpCpding.csprojAssemblyReference.cache
+/Users/johnakhilomen/Projects/AdvancedCSharpCpding/AdvancedCSharpCpding/obj/Debug/netcoreapp3.1/AdvancedCSharpCpding.AssemblyInfoInputs.cache
+/Users/johnakhilomen/Projects/AdvancedCSharpCpding/AdvancedCSharpCpding/obj/Debug/netcoreapp3.1/AdvancedCSharpCpding.AssemblyInfo.cs
+/Users/johnakhilomen/Projects/AdvancedCSharpCpding/AdvancedCSharpCpding/obj/Debug/netcoreapp3.1/AdvancedCSharpCpding.csproj.CoreCompileInputs.cache
+/Users/johnakhilomen/Projects/AdvancedCSharpCpding/AdvancedCSharpCpding/obj/Debug/netcoreapp3.1/AdvancedCSharpCpding.dll
+/Users/johnakhilomen/Projects/AdvancedCSharpCpding/AdvancedCSharpCpding/obj/Debug/netcoreapp3.1/AdvancedCSharpCpding.pdb
+/Users/johnakhilomen/Projects/AdvancedCSharpCpding/AdvancedCSharpCpding/obj/Debug/netcoreapp3.1/AdvancedCSharpCpding.genruntimeconfig.cache
