@@ -1,0 +1,12 @@
+/Users/johnakhilomen/Projects/AdvancedCSharp/ExtensionStuff/bin/Debug/netcoreapp3.1/ExtensionStuff.deps.json
+/Users/johnakhilomen/Projects/AdvancedCSharp/ExtensionStuff/bin/Debug/netcoreapp3.1/ExtensionStuff.runtimeconfig.json
+/Users/johnakhilomen/Projects/AdvancedCSharp/ExtensionStuff/bin/Debug/netcoreapp3.1/ExtensionStuff.runtimeconfig.dev.json
+/Users/johnakhilomen/Projects/AdvancedCSharp/ExtensionStuff/bin/Debug/netcoreapp3.1/ExtensionStuff.dll
+/Users/johnakhilomen/Projects/AdvancedCSharp/ExtensionStuff/bin/Debug/netcoreapp3.1/ExtensionStuff.pdb
+/Users/johnakhilomen/Projects/AdvancedCSharp/ExtensionStuff/obj/Debug/netcoreapp3.1/ExtensionStuff.csprojAssemblyReference.cache
+/Users/johnakhilomen/Projects/AdvancedCSharp/ExtensionStuff/obj/Debug/netcoreapp3.1/ExtensionStuff.AssemblyInfoInputs.cache
+/Users/johnakhilomen/Projects/AdvancedCSharp/ExtensionStuff/obj/Debug/netcoreapp3.1/ExtensionStuff.AssemblyInfo.cs
+/Users/johnakhilomen/Projects/AdvancedCSharp/ExtensionStuff/obj/Debug/netcoreapp3.1/ExtensionStuff.csproj.CoreCompileInputs.cache
+/Users/johnakhilomen/Projects/AdvancedCSharp/ExtensionStuff/obj/Debug/netcoreapp3.1/ExtensionStuff.dll
+/Users/johnakhilomen/Projects/AdvancedCSharp/ExtensionStuff/obj/Debug/netcoreapp3.1/ExtensionStuff.pdb
+/Users/johnakhilomen/Projects/AdvancedCSharp/ExtensionStuff/obj/Debug/netcoreapp3.1/ExtensionStuff.genruntimeconfig.cache

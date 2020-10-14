@@ -1,0 +1,12 @@
+/Users/johnakhilomen/Projects/AdvancedCSharp/LambdaStuff/bin/Debug/netcoreapp3.1/LambdaStuff.deps.json
+/Users/johnakhilomen/Projects/AdvancedCSharp/LambdaStuff/bin/Debug/netcoreapp3.1/LambdaStuff.runtimeconfig.json
+/Users/johnakhilomen/Projects/AdvancedCSharp/LambdaStuff/bin/Debug/netcoreapp3.1/LambdaStuff.runtimeconfig.dev.json
+/Users/johnakhilomen/Projects/AdvancedCSharp/LambdaStuff/bin/Debug/netcoreapp3.1/LambdaStuff.dll
+/Users/johnakhilomen/Projects/AdvancedCSharp/LambdaStuff/bin/Debug/netcoreapp3.1/LambdaStuff.pdb
+/Users/johnakhilomen/Projects/AdvancedCSharp/LambdaStuff/obj/Debug/netcoreapp3.1/LambdaStuff.csprojAssemblyReference.cache
+/Users/johnakhilomen/Projects/AdvancedCSharp/LambdaStuff/obj/Debug/netcoreapp3.1/LambdaStuff.AssemblyInfoInputs.cache
+/Users/johnakhilomen/Projects/AdvancedCSharp/LambdaStuff/obj/Debug/netcoreapp3.1/LambdaStuff.AssemblyInfo.cs
+/Users/johnakhilomen/Projects/AdvancedCSharp/LambdaStuff/obj/Debug/netcoreapp3.1/LambdaStuff.csproj.CoreCompileInputs.cache
+/Users/johnakhilomen/Projects/AdvancedCSharp/LambdaStuff/obj/Debug/netcoreapp3.1/LambdaStuff.dll
+/Users/johnakhilomen/Projects/AdvancedCSharp/LambdaStuff/obj/Debug/netcoreapp3.1/LambdaStuff.pdb
+/Users/johnakhilomen/Projects/AdvancedCSharp/LambdaStuff/obj/Debug/netcoreapp3.1/LambdaStuff.genruntimeconfig.cache
